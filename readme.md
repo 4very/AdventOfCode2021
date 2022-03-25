@@ -1,4 +1,4 @@
 
 ## Python
 
-- [x] [x] day one
+- [x]☑ day one
